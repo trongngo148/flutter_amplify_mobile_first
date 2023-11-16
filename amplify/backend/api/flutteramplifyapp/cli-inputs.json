@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "flutteramplifyapp",
+    "serviceName": "AppSync",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authflutteramplifyapp394541eb"
+    },
+    "additionalAuthTypes": [],
+    "conflictResolution": {}
+  }
+}

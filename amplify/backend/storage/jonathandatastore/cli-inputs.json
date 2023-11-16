@@ -1,0 +1,10 @@
+{
+  "resourceName": "jonathandatastore",
+  "tableName": "trip",
+  "partitionKey": {
+    "fieldName": "id",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
